@@ -8,5 +8,5 @@ MotionLoaderと接続することにより、端末上に表示されるGUIの�
 
 GUIの説明
 --------
-[![画像1][image1]50%](http://cloud.github.com/downloads/s-ryuki/Pictures/HumanInterface_GUI_Guide.png)
+[![画像1][image1]](http://cloud.github.com/downloads/s-ryuki/Pictures/HumanInterface_GUI_Guide.png)
 [image1]:http://cloud.github.com/downloads/s-ryuki/Pictures/HumanInterface_GUI_Guide.png
