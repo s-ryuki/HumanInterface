@@ -5,7 +5,7 @@ HumanInterface
 
 仕様
 ----
-[![画像1][image1]](https://github.com/downloads/s-ryuki/Pictures/HumanInterface_Comm.png)
+　　　[![画像1][image1]](https://github.com/downloads/s-ryuki/Pictures/HumanInterface_Comm.png)
 [image1]:https://github.com/downloads/s-ryuki/Pictures/HumanInterface_Comm.png
 
 　InPortにはセンサモジュールを接続することにより、実装したセンサの計測値を受け取り、ユーザーの操作をサポートする機能が実装されています。
