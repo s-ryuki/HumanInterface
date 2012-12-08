@@ -3,7 +3,7 @@ HumanInterface
 　Android端末を用いたヒューマノイドロボットを操作するためのヒューマンインターフェースのコンポーネントです。  
   MotionLoaderと接続することにより、端末上に表示されるGUIの各ボタンに割り振られたIDを押された時に出力することができます。  
 
-仕様
+コンポーネントの仕様
 ----
 　　　[![画像1][image1]](https://github.com/downloads/s-ryuki/Pictures/HumanInterface_Comm.png)
 [image1]:https://github.com/downloads/s-ryuki/Pictures/HumanInterface_Comm.png
